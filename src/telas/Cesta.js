@@ -7,7 +7,7 @@ import logo from '../../assets/logo.png';
 export default function Cesta(){
     return <>
     <Image source={topo} style = {estilos.topo} />
-    <Text style={estilos.titulo}>Detalhes da Cesta</Text>
+    <Text style={estilos.titulo}>Detalhes da aaCesta</Text>
     <View style={estilos.cesta}>
         <Text style={estilos.nome}>Cesta de Verduras</Text>
         <View style={estilos.fazenda}>
